@@ -35,6 +35,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loriel06&show_icons=true&locale=en&layout=compact" alt="loriel06" /></p>
 
+  </a>
+</p>
+
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loriel06&show_icons=true&theme=highcontrast&locale=tr" alt="loriel06" /></p>
 
+  </a>
+</p>
+
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loriel06&theme=highcontrast" alt="loriel06" /></p>
