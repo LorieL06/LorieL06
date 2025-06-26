@@ -34,15 +34,16 @@
   </a>
 
   <div style="margin-bottom: 15px; border: 1px solid #ccc; padding: 8px; border-radius: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loriel06&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loriel06&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 40%; height: auto;" />
   </div>
 
   <div style="margin-bottom: 15px; border: 1px solid #ccc; padding: 8px; border-radius: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=loriel06&show_icons=true&theme=highcontrast&locale=tr" alt="GitHub Stats" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=loriel06&show_icons=true&theme=highcontrast&locale=tr" alt="GitHub Stats" style="width: 40%; height: auto;" />
   </div>
 
   <div style="border: 1px solid #ccc; padding: 8px; border-radius: 8px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=loriel06&theme=highcontrast" alt="Streak Stats" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=loriel06&theme=highcontrast" alt="Streak Stats" style="width: 40%; height: auto;" />
   </div>
 
 </div>
+
