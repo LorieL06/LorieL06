@@ -32,10 +32,10 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="loriel" />
   </a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loriel06&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; max-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loriel06&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; max-width: 100px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=loriel06&show_icons=true&theme=highcontrast&locale=tr" alt="GitHub Stats" style="width: 100%; max-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=loriel06&show_icons=true&theme=highcontrast&locale=tr" alt="GitHub Stats" style="width: 100%; max-width: 100px;" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loriel06&theme=highcontrast" alt="Streak Stats" style="width: 100%; max-width: 300px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loriel06&theme=highcontrast" alt="Streak Stats" style="width: 100%; max-width: 100px;" />
 </div>
 
