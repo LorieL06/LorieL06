@@ -1,25 +1,19 @@
-<h1 align="center">Hi 🤗, I'm Bora</h1>
-<h3 align="center">Cyber Security Enthusiast</h3>
+<h1 align="center">Selam, Ben Bora</h1>
+<h3 align="center">Siber Güvenlik Meraklısı</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loriel06&label=Profile%20views&color=000000&style=plastic" alt="loriel06" /> </p>
 
-- I’m currently working on [terminusplay.com](https://www.terminusplay.com/)
+- Şu anda üzerinde çalıştığım proje: [terminusplay.com](https://www.terminusplay.com/)
 
-- I’m currently learning **All Cyber Security Tools, C++, C#**
+- Hâlihazırda öğrenmekte olduğum konular: **Tüm Siber Güvenlik İhtiyaç Kapsamındaki Araçlar, C++, C#**
 
-- I'm looking for help to improve myself **In the field of Cyber ​​Security**
+- Kendimi geliştirmek istediğim alan: **Siber Güvenlik üzerine uzman seviyede derinleşmek**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LorieL06?tab=repositories](https://github.com/LorieL06?tab=repositories)
+- Tüm projelerimi buradan inceleyebilirsin
 
-- My Portfolio [I will add it when it is completed..](I will add it when it is completed..)
+- Bana istediğin zaman **JavaScript hata çözümlemeleri** veya **Kali Linux araçları** hakkında sorular sorabilirsin.
 
-- 💬 Ask me about **High level javascript error solutions, Kali Linux Tools. etc.**
-
-- 📫 How to reach me **boraadogan0@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/LorieL06?tab=repositories](https://github.com/LorieL06?tab=repositories)
-
-- ⚡ Fun fact **I think I have a humorous and like-minded nature**
+- *Kafa dengi ve espri anlayışı yüksek biri olduğumu söyleyebilirim.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
