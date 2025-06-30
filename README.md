@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loriel06&label=Profile%20views&color=000000&style=plastic" alt="loriel06" /> </p>
 
-- Şu anda üzerinde çalıştığım proje: [terminusplay.com](https://www.terminusplay.com/)
-
 - Hâlihazırda öğrenmekte olduğum konular: **Tüm Siber Güvenlik İhtiyaç Kapsamındaki Araçlar, C++, C#**
 
 - Kendimi geliştirmek istediğim alan: **Siber Güvenlik üzerine uzman seviyede derinleşmek**
