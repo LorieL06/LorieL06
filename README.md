@@ -1,5 +1,5 @@
 <h1 align="center">Selam, Ben Bora</h1>
-<h3 align="center">Siber Güvenlik Meraklısı</h3>
+<h3 align="center">IT Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loriel06&label=Profile%20views&color=000000&style=plastic" alt="loriel06" /> </p>
 
